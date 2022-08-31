@@ -5,7 +5,7 @@
   background-position: 40%;
   background-size: 6%;
   /* CSS dosyası içindeki ::placeholder kısmının arkaplanına assets klasörü içinde bulunan arama simgesini ekleyin. Ve resmin tekrar etmemesini sağlayın.    */
-  background-image:url(/search-solid.svg); 
+  background-image:url(search-solid.svg); 
   background-repeat: no-repeat;
   background-position: 50px;
 }
